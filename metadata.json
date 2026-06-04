@@ -1,0 +1,8 @@
+{
+  "name": "Free LLM API Hub",
+  "description": "Secure local vault, aggregator list, public keys, and health inspector for free LLM APIs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

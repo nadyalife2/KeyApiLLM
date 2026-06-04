@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Comic shadow offset for the beaker -->
+    <path
+        android:fillColor="#1E1E1E"
+        android:pathData="M 50,29 L 62,29 L 62,43 C 68,47 75,55 79,62 C 83,69 84,77 80,84 C 76,91 68,94 58,94 C 48,94 40,91 36,84 C 32,77 33,69 37,62 C 41,55 48,47 54,43 Z" />
+
+    <!-- White Beaker Glass Outer Outline and Body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 46,26 L 58,26 L 58,40 C 64,44 71,52 75,59 C 79,66 80,74 76,81 C 72,88 64,91 54,91 C 44,91 36,88 32,81 C 28,74 29,66 33,59 C 37,52 44,44 50,40 Z"
+        android:strokeColor="#1E1E1E"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- Glowing Green Portal Liquid -->
+    <path
+        android:fillColor="#2EDD3E"
+        android:pathData="M 32.5,63 C 32.5,63 43,59 54,63 C 65,67 75.5,63 75.5,63 C 78,68 78,74 76,79 C 73,85 65,88 54,88 C 43,88 35,85 32,79 C 30.5,74 30.5,68 32.5,63 Z"
+        android:strokeColor="#1E1E1E"
+        android:strokeWidth="2.5"
+        android:strokeLineJoin="round" />
+
+    <!-- Electric Turquoise portal fluid bubble -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M 50,72 C 50,70.5 51.5,69 53,69 C 54.5,69 56,70.5 56,72 C 56,73.5 54.5,75 53,75 C 51.5,75 50,73.5 50,72 Z"
+        android:strokeColor="#1E1E1E"
+        android:strokeWidth="2" />
+
+    <!-- Main floaty bubble -->
+    <path
+        android:fillColor="#2EDD3E"
+        android:pathData="M 44,48 C 44,46.5 45.5,45 47,45 C 48.5,45 50,46.5 50,48 C 50,49.5 48.5,51 47,51 C 45.5,51 44,49.5 44,48 Z"
+        android:strokeColor="#1E1E1E"
+        android:strokeWidth="2" />
+
+    <!-- Small floaty bubble -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M 58,44 C 58,43 59,42 60,42 C 61,42 62,43 62,44 C 62,45 61,46 60,46 C 59,46 58,45 58,44 Z"
+        android:strokeColor="#1E1E1E"
+        android:strokeWidth="1.5" />
+
+    <!-- Beaker Lip structure -->
+    <path
+        android:pathData="M 44,26 L 60,26"
+        android:strokeColor="#1E1E1E"
+        android:strokeWidth="4.5"
+        android:strokeLineCap="round" />
+
+</vector>
